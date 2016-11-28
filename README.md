@@ -1,4 +1,4 @@
-# android_crawler
+# AndroidAppCrawler
 A java program used to craw android app, cover app's views as many as possible,and generate a html report with App UI's coverage
 
 ## Requirements
